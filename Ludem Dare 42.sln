@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ludem Dare 42", "Ludem Dare 42.csproj", "{2F92DA44-D389-74DC-68CE-22655E91FDBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ludem Dare 42.Editor", "Ludem Dare 42.Editor.csproj", "{FD4528E2-C34A-0CE5-6813-8BBA58A3DC3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F92DA44-D389-74DC-68CE-22655E91FDBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F92DA44-D389-74DC-68CE-22655E91FDBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F92DA44-D389-74DC-68CE-22655E91FDBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F92DA44-D389-74DC-68CE-22655E91FDBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD4528E2-C34A-0CE5-6813-8BBA58A3DC3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD4528E2-C34A-0CE5-6813-8BBA58A3DC3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD4528E2-C34A-0CE5-6813-8BBA58A3DC3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD4528E2-C34A-0CE5-6813-8BBA58A3DC3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
